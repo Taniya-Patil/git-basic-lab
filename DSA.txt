@@ -1,1 +1,3 @@
 # DSA using c notes
+trees 
+arrays
